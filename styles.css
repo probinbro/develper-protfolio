@@ -5,6 +5,7 @@
 nav{
     display:flex;
     align-items: center;
+    justify-content: space-between;
 }
 .nav_title {
     color: #181818;
@@ -41,4 +42,39 @@ nav a{
     font-size: 20px;
     font-weight: 700;
     padding: 15px 35px;
+}
+.header{
+    background: #FFF8F3;
+}
+.marry_intro{
+  color: var(--dark-02, #474747);
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.marry_details{
+    color: var(--dark-01, #181818);
+font-family: Open Sans;
+font-size: 85px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.developer{
+    color: rgba(24, 24, 24, 0.15);
+font-family: Open Sans;
+font-size: 100px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 33px;
+}
+.div1{
+    display: ;
+}
+.hardy{
+    padding: 30px 30px 30px 150px;
+    display: flex;
 }
